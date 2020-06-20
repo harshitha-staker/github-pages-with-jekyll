@@ -1,10 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: what is cloud?
+author: Harshitha-staker
+email: harshitha1681@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+"The cloud" refers to servers that are accessed over the Internet, and the software and databases
+that run on those servers. Cloud servers are located in data centers all over the world. By using cloud computing,
+users and companies don't have to manage physical servers themselves or run software applications on their own machines.
+
+
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
